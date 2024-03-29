@@ -1,7 +1,7 @@
 # 💫About Me :
 ✍ I am currently pursuing a Bachelor's degree in Software Engineering at the University of Information Technology.
-👨‍💻 I'm deeply passionate about developing full applications and websites, with a strong focus on user experience, covering every stage from analysis to implementation.
-🎮 Besides my coding time, I often enjoy myself in music and e-sports.
+👨‍💻 I'm deeply passionate about developing full applications and websites, with a strong focus on user experience, covering every stage from analysis to implementation.<br>
+🎮 Besides my coding time, I often enjoy myself in music and e-sports.<br>
 📧 Contact me for work: lequocdung2983@gmail.com
 
 ## 🌐Socials
